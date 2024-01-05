@@ -1,0 +1,5 @@
+2024-01-04 21:02:01,507 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-01-04 21:04:08,162 [Worker-6: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:MickeyMouse:1.0-SNAPSHOT @ C:\Users\Maciek\Desktop\MickeyMouse\pom.xml.
+2024-01-04 21:04:08,464 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Maciek\Desktop\MickeyMouse\src\main\resources
+2024-01-04 21:04:08,470 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Maciek\Desktop\MickeyMouse\src\test\resources
+2024-01-04 21:04:08,684 [Worker-29: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:MickeyMouse:1.0-SNAPSHOT @ C:\Users\Maciek\Desktop\MickeyMouse\pom.xml.
